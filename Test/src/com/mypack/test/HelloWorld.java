@@ -4,6 +4,7 @@ public class HelloWorld {
 	public void getData()
 	{
 		System.out.println("after conflict add this line. and commit to local git.");
+		System.out.println("second commit ");
 	}
 	
 	public static void main(String[] args) {
